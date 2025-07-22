@@ -5,13 +5,14 @@
   "keywords": [
     "chai",
     "backend",
-    "projects"
+    "projects",
+    "javascript"
   ],
   "license": "ISC",
   "author": "Sahil Rowal",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   }
 }
